@@ -1,0 +1,33 @@
+{
+	"name": "@devteks/exit-hook",
+	"version": "0.0.1",
+	"description": "Call function once",
+	"license": "MIT",
+	"repository": "github:mosamuhana/exit-hook",
+	"author": {
+		"name": "Mosa Muhana <mosamuhana@gmail.com>",
+		"url": "https://github.com/mosamuhana"
+	},
+	"homepage": "https://github.com/mosamuhana/exit-hook",
+	"bugs": {
+		"url": "https://github.com/mosamuhana/exit-hook/issues"
+	},
+	"funding": "https://github.com/mosamuhana/exit-hook?sponsor=1",
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"exit hook",
+		"exit",
+		"hook",
+		"process",
+		"process SIGINT",
+		"process SIGTERM"
+	],
+	"engines": {
+		"node": ">=10"
+	},
+	"main": "index.js",
+	"types": "index.d.ts"
+}
